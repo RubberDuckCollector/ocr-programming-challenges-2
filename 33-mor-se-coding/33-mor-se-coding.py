@@ -8,7 +8,7 @@ def str_to_morse_code(msg, key):
     for i in range(len(msg)):
         
         # from dict key, appends the morse code char that corresponds to the char at msg_list[i]
-        if key[msg_list[i]] != "|":
+        if key[msg_list[i]] != "/":
             encoded_msg += key[msg_list[i]]
             encoded_msg += " "
         else:
@@ -27,14 +27,14 @@ def morse_code_to_str(msg, key):
     # print(morse_list)
 
     for i in range(len(morse_list)):
-        if "|" in morse_list[i]:
+        if "/" in morse_list[i]:
 
             # print(f"morse_list[i]: {morse_list[i]}")
-            split_chars = morse_list[i].split("|")
+            split_chars = morse_list[i].split("/")
             # print(f"morse_list[i]: {morse_list[i]}")
             # print(f"split_chars: {split_chars}")
 
-            split_chars.insert(len(split_chars) // 2, '|')
+            split_chars.insert(len(split_chars) // 2, '/')
             # this reassigns the elements of split_chars into the list as regular elements somehow
             morse_list[i:i+1] = split_chars
             # print(f"morse_list[i]: {morse_list[i]}")
@@ -56,7 +56,7 @@ def main():
     # all the KEYS are on the left and their VALUES are on the right
     # you can only reference the left side and get the right side, not the other way around
     alpha_to_morse_code = {
-        " ": "|", # space is replaced by a pipe
+        " ": "/", # space is replaced by a pipe
         "a": ".-",
         "b": "-...",
         "c": "-.-.",
@@ -86,7 +86,7 @@ def main():
     }
 
     morse_code_to_alpha = {
-        "|": " ", # pipe is replaced by space
+        "/": " ", # pipe is replaced by space
         ".-": "a",
         "-...": "b",
         "-.-.": "c",
