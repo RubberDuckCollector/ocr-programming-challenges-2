@@ -4,7 +4,7 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 
 ## Challenges completed:
 
-- 1 - [Factorial Finder](### 1 - Factorial Finder)
+- 1 - [Factorial Finder](###1-Factorial-Finder)
 - 2 - [Speed Tracker](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/blob/main/README.md#2---speed-tracker)
 - 3 - [Thief!](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#3--thief)
 - 5 - [Fruit Machine](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#5---fruit-machine)
