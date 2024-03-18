@@ -4,45 +4,42 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 
 ## Challenges completed:
 
-<!-- vim-markdown-toc GitLab -->
 
-* [Notes](#notes)
-    * [1 - Factorial Finder](#1-factorial-finder)
-    * [3 - Thief!](#3-thief)
-    * [2 - Speed Tracker](#2-speed-tracker)
-    * [5 - Fruit Machine](#5-fruit-machine)
-    * [6 - Unit Converter](#6-unit-converter)
-    * [8 - Arithmetic Test](#8-arithmetic-test)
-    * [9 - Happy Numbers](#9-happy-numbers)
-    * [12 - Quiz Maker](#12-quiz-maker)
-    * [15 - Pangrams](#15-pangrams)
-    * [20 - Palindromes](#20-palindromes)
-    * [22 - Simple Life Calculator](#22-simple-life-calculator)
-    * [23 - Fibbing](#23-fibbing)
-    * [24 - Hack Proof](#24-hack-proof)
-    * [25 - Ordering](#25-ordering)
-    * [30 - Year Addition](#30-year-addition)
-    * [31 - Forwards and Backwards](#31-forwards-and-backwards)
-    * [33 - Mor-se Coding](#33-mor-se-coding)
-    * [34 - What's the day?](#34-whats-the-day)
-    * [36 - Triangulate (WIP)](#36-triangulate-wip)
-    * [37 - Fizz Buzz](#37-fizz-buzz)
-    * [38 - Sing along](#38-sing-along)
-    * [39 - Even more Odd](#39-even-more-odd)
-    * [40 - Base of Numbers](#40-base-of-numbers)
-    * [41 - Prime Factorisation](#41-prime-factorisation)
-    * [45 - Find the factorial](#45-find-the-factorial)
-    * [48 - Reverse It](#48-reverse-it)
-    * [61 - Your name is...](#61-your-name-is)
-    * [62 - R@nd0m-P@ssw0rd--generator](#62-rnd0m-pssw0rd-generator)
-    * [63 - I like P](#63-i-like-p)
-    * [76 - That's a lot of number](#76-thats-a-lot-of-number)
-    * [77 - Fib on a chi](#77-fib-on-a-chi)
+<!-- vim-markdown-toc GFM -->
+
+* [1 - Factorial Finder](#1---factorial-finder)
+* [3 - Thief!](#3---thief)
+* [2 - Speed Tracker](#2---speed-tracker)
+* [5 - Fruit Machine](#5---fruit-machine)
+* [6 - Unit Converter](#6---unit-converter)
+* [8 - Arithmetic Test](#8---arithmetic-test)
+* [9 - Happy Numbers](#9---happy-numbers)
+* [12 - Quiz Maker](#12---quiz-maker)
+* [15 - Pangrams](#15---pangrams)
+* [20 - Palindromes](#20---palindromes)
+* [22 - Simple Life Calculator](#22---simple-life-calculator)
+* [23 - Fibbing](#23---fibbing)
+* [24 - Hack Proof](#24---hack-proof)
+* [25 - Ordering](#25---ordering)
+* [30 - Year Addition](#30---year-addition)
+* [31 - Forwards and Backwards](#31---forwards-and-backwards)
+* [33 - Mor-se Coding](#33---mor-se-coding)
+* [34 - What's the day?](#34---whats-the-day)
+* [36 - Triangulate (WIP)](#36---triangulate-wip)
+* [37 - Fizz Buzz](#37---fizz-buzz)
+* [38 - Sing along](#38---sing-along)
+* [39 - Even more Odd](#39---even-more-odd)
+* [40 - Base of Numbers](#40---base-of-numbers)
+* [41 - Prime Factorisation](#41---prime-factorisation)
+* [45 - Find the factorial](#45---find-the-factorial)
+* [48 - Reverse It](#48---reverse-it)
+* [61 - Your name is...](#61---your-name-is)
+* [62 - R@nd0m-P@ssw0rd--generator](#62---rnd0m-pssw0rd--generator)
+* [63 - I like P](#63---i-like-p)
+* [76 - That's a lot of number](#76---thats-a-lot-of-number)
+* [77 - Fib on a chi](#77---fib-on-a-chi)
 
 <!-- vim-markdown-toc -->
-
-
-## Notes
 
 ### 1 - Factorial Finder
 
