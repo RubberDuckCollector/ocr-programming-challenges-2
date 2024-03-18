@@ -4,7 +4,6 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 
 ## Challenges completed:
 
-
 <!-- vim-markdown-toc GFM -->
 
 * [1 - Factorial Finder](#1---factorial-finder)
