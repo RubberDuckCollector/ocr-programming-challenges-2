@@ -4,77 +4,43 @@ https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
 
 ## Challenges completed:
 
-<!-- gonna comment these out -->
-
-<!-- - 1 - [Factorial Finder](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#1---factorial-finder) -->
-<!-- - 2 - [Speed Tracker](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/blob/main/README.md#2---speed-tracker) -->
-<!-- - 3 - [Thief!](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#3--thief) -->
-<!-- - 5 - [Fruit Machine](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#5---fruit-machine) -->
-<!-- - 6 - [Unit Converter](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#6---unit-converter) -->
-<!-- - 8 - [Arithmetic Test](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#8---arithmetic-test) -->
-<!-- - 9 - [Happy Numbers](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#9---happy-numbers) -->
-<!-- - 12 - [Quiz Maker](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#12---quiz-maker) -->
-<!-- - 15 - [Pangrams](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#15---pangrams) -->
-<!-- - 20 - [Palindromes](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#20---palindromes) -->
-<!-- - 22 - [Simple Life Calculator](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#22---simple-life-calculator) -->
-<!-- - 23 - [Fibbing](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#23---fibbing) -->
-<!-- - 24 - [Hack Proof](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#24---hack-proof) -->
-<!-- - 25 - [Ordering](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#25---ordering) -->
-<!-- - 30 - [Year Addition](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#30---year-addition) -->
-<!-- - 31 - [Forwards and Backwards](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#31---forwards-and-backwards) -->
-<!-- - 33 - [Mor-se Coding](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#33---mor-se-coding) -->
-<!-- - 34 - [What's the day?](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#34---whats-the-day) -->
-<!-- - 36 - [Triangulate (Not finished extension, WIP)](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#36---triangulate-wip) -->
-<!-- - 37 - [Fizz Buzz](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#37---fizz-buzz) -->
-<!-- - 38 - [Sing Along](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#38---sing-along) -->
-<!-- - 39 - [Even more Odd](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#39---even-more-odd) -->
-<!-- - 40 - [Base of Numbers](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#40---base-of-numbers) -->
-<!-- - 41 - [Prime Factorisation](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#41---prime-factorisation) -->
-<!-- - 45 - [Find the factorial](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#45---find-the-factorial) -->
-<!-- - 48 - [Reverse It](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#48---reverse-it) -->
-<!-- - 61 - [Your name is...](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#61---your-name-is) -->
-<!-- - 62 - [R@nd0m P@ssw0rd generator](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#62---rnd0m-pssw0rd--generator) -->
-<!-- - 63 - [I like Pi](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#63---i-like-pi) -->
-<!-- - 76 - [That's a lot of number](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#76---thats-a-lot-of-number) -->
-<!-- - 77 - [Fib on a chi](https://github.com/RubberDuckCollector/ocr-programming-challenges-2/#77---fib-on-a-chi) -->
-
-
-<!-- vim-markdown-toc GFM -->
+<!-- vim-markdown-toc GitLab -->
 
 * [Notes](#notes)
-    * [1 - Factorial Finder](#1---factorial-finder)
-    * [3 - Thief!](#3---thief)
-    * [2 - Speed Tracker](#2---speed-tracker)
-    * [5 - Fruit Machine](#5---fruit-machine)
-    * [6 - Unit Converter](#6---unit-converter)
-    * [8 - Arithmetic Test](#8---arithmetic-test)
-    * [9 - Happy Numbers](#9---happy-numbers)
-    * [12 - Quiz Maker](#12---quiz-maker)
-    * [15 - Pangrams](#15---pangrams)
-    * [20 - Palindromes](#20---palindromes)
-    * [22 - Simple Life Calculator](#22---simple-life-calculator)
-    * [23 - Fibbing](#23---fibbing)
-    * [24 - Hack Proof](#24---hack-proof)
-    * [25 - Ordering](#25---ordering)
-    * [30 - Year Addition](#30---year-addition)
-    * [31 - Forwards and Backwards](#31---forwards-and-backwards)
-    * [33 - Mor-se Coding](#33---mor-se-coding)
-    * [34 - What's the day?](#34---whats-the-day)
-    * [36 - Triangulate (WIP)](#36---triangulate-wip)
-    * [37 - Fizz Buzz](#37---fizz-buzz)
-    * [38 - Sing along](#38---sing-along)
-    * [39 - Even more Odd](#39---even-more-odd)
-    * [40 - Base of Numbers](#40---base-of-numbers)
-    * [41 - Prime Factorisation](#41---prime-factorisation)
-    * [45 - Find the factorial](#45---find-the-factorial)
-    * [48 - Reverse It](#48---reverse-it)
-    * [61 - Your name is...](#61---your-name-is)
-    * [62 - R@nd0m-P@ssw0rd--generator](#62---rnd0m-pssw0rd--generator)
-    * [63 - I like P](#63---i-like-p)
-    * [76 - That's a lot of number](#76---thats-a-lot-of-number)
-    * [77 - Fib on a chi](#77---fib-on-a-chi)
+    * [1 - Factorial Finder](#1-factorial-finder)
+    * [3 - Thief!](#3-thief)
+    * [2 - Speed Tracker](#2-speed-tracker)
+    * [5 - Fruit Machine](#5-fruit-machine)
+    * [6 - Unit Converter](#6-unit-converter)
+    * [8 - Arithmetic Test](#8-arithmetic-test)
+    * [9 - Happy Numbers](#9-happy-numbers)
+    * [12 - Quiz Maker](#12-quiz-maker)
+    * [15 - Pangrams](#15-pangrams)
+    * [20 - Palindromes](#20-palindromes)
+    * [22 - Simple Life Calculator](#22-simple-life-calculator)
+    * [23 - Fibbing](#23-fibbing)
+    * [24 - Hack Proof](#24-hack-proof)
+    * [25 - Ordering](#25-ordering)
+    * [30 - Year Addition](#30-year-addition)
+    * [31 - Forwards and Backwards](#31-forwards-and-backwards)
+    * [33 - Mor-se Coding](#33-mor-se-coding)
+    * [34 - What's the day?](#34-whats-the-day)
+    * [36 - Triangulate (WIP)](#36-triangulate-wip)
+    * [37 - Fizz Buzz](#37-fizz-buzz)
+    * [38 - Sing along](#38-sing-along)
+    * [39 - Even more Odd](#39-even-more-odd)
+    * [40 - Base of Numbers](#40-base-of-numbers)
+    * [41 - Prime Factorisation](#41-prime-factorisation)
+    * [45 - Find the factorial](#45-find-the-factorial)
+    * [48 - Reverse It](#48-reverse-it)
+    * [61 - Your name is...](#61-your-name-is)
+    * [62 - R@nd0m-P@ssw0rd--generator](#62-rnd0m-pssw0rd-generator)
+    * [63 - I like P](#63-i-like-p)
+    * [76 - That's a lot of number](#76-thats-a-lot-of-number)
+    * [77 - Fib on a chi](#77-fib-on-a-chi)
 
 <!-- vim-markdown-toc -->
+
 
 ## Notes
 
